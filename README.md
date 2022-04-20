@@ -2,9 +2,11 @@
 - ⚡ backend de porão ⚡ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg">
 <div align="center">
   <a href="https://github.com/joaorodriguesrd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesrd&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesrd&layout=compact&langs_count=10&theme=vue"/>
-</div>
+    
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesrd&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesrd&layout=compact&langs_count=10&theme=vue"/>
+<img height="180em" src="https://github-profile-trophy.vercel.app/?username=joaorodriguesrd&no-bg=true&margin-w=1$&column=7&no-frame=true"/>
+    </div>
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
@@ -41,3 +43,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  <a target="_blank"><img src="https://github-profile-trophy.vercel.app/?username=joaorodriguesrd&row=1&margin-w=10" target="_blank"></a>
