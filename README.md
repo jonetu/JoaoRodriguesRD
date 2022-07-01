@@ -4,7 +4,7 @@
   <a href="https://github.com/joaorodriguesrd">
     
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=joaorodriguesrd&show_icons=true&theme=vue&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesrd&layout=compact&langs_count=10&theme=vue"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorodriguesrd&layout=compact&langs_count=10&theme=vue&hide=javascript,css,html"/>
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=joaorodriguesrd&no-bg=true&margin-w=1$&column=7&no-frame=true"/>
     </div>
 <div style="display: inline_block"><br>
