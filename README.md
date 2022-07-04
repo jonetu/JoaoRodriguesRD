@@ -8,23 +8,20 @@
 <img height="180em" src="https://github-profile-trophy.vercel.app/?username=joaorodriguesrd&no-bg=true&margin-w=1$&column=7&no-frame=true"/>
     </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg">
-  
-  <img align="right"  height="150" style="border-radius:50px;" src="https://instagram.fthe17-1.fna.fbcdn.net/v/t51.2885-19/274005686_472911510992408_3269375187716139239_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fthe17-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=S2FWEyY1yVsAX8i3S1g&edm=ABfd0MgBAAAA&ccb=7-4&oh=00_AT8n3rxGjjgqH0mgKNeZHc4V2sPsXIvfXgdAp2et3bFoqQ&oe=6245CAEE&_nc_sid=7bff83">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
+  <img align="right"  height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/50680705">
 </div>
   
   ##
  
 <div> 
-  <a href=["https://instagram.com/jrmeloneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://avatars.githubusercontent.com/u/50680705?v=4)" target="_blank"></a>
+  <a href="https://instagram.com/jrmeloneto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:j.neto.rodrigues.redbuly@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-rodrigues-de-melo-neto-a16951129/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
